@@ -22,6 +22,4 @@
 [![](https://img.shields.io/badge/-GitHub-grey?logo=github)](#)
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxun95&theme=dark&show_icons=true&hide=stars,issues)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxun95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxun95&theme=dark&show_icons=true&hide=stars,issues) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanxun95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
