@@ -9,8 +9,9 @@
 💻Technologies
 <br>
 
-<img src="https://img.shields.io/badge/Mongo-grey?logo=mongo" alt=""/>
-<img src="https://img.shields.io/badge/React-grey?logo=react" alt=""/>
+[![](https://img.shields.io/badge/-Mongo-grey?logo=mongodb)](#)
+[![](https://img.shields.io/badge/-ExpressJS-grey?logo=express)](#)
+
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxun95&theme=dark&show_icons=true&hide=stars,issues)
