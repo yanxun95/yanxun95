@@ -1,7 +1,7 @@
 ### Hi there, I'm Yan! 👋
 
 <p>
-  I am from Malaysia. I completed my Bachelor of Science (Honors) at Technological University Dublin. After finished my degree, I've join Strive School for Full-Stack Developer course. Right now I am proud to say I'm a Full-Stack Developer looking for an opportunity where I can start my adventure in web development.
+  I am from Malaysia. I completed my Bachelor of Science (Honors) at Technological University Dublin. After finished my degree, I've join Strive School for Full-Stack Developer course. Right now I am proud to say I'm a Full-Stack Developer.
 </p>
 
 ---
