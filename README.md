@@ -1,7 +1,7 @@
 ### Hi there, I'm Yan! 👋
 
 <p>
-  I am from Malaysia. I completed my Bachelor of Science (Honors) at Technological University Dublin. After finished my degree, I've join Strive School for Full-Stack Developer course. Right now I am proud to say I'm a Full-Stack Developer.
+  Software Engineer with nearly 4 years of experience building responsive, data-driven web applications for complex railway monitoring systems. Proficient in Vue.js and experienced with React, JavaScript, and modern frontend development practices. Skilled in REST API integration, performance optimization, debugging, and scalable component-based architecture. Experienced working in Agile environments while collaborating closely with backend developers and QA teams to deliver reliable and maintainable solutions. Passionate about continuous learning, problem-solving, and leveraging AI-assisted development tools to improve development efficiency and code quality.
 </p>
 
 ---
